@@ -2,12 +2,7 @@
 
 **`Desenvolvedor em Formação`**
 
-Me chamo Gabriel Ribeiro Neves, tenho 17 anos e sou estudante de Desenvolvimento de Sistemas na Tufi Madi. Sou apaixonado por tecnologia e estou construindo minha carreira na área de desenvolvimento de software, buscando constantemente aprimorar meus conhecimentos por meio de cursos, estudos e projetos práticos.
-
-Além da minha formação, adquiri experiência profissional como **Auxiliar Administrativo na Magazine Luiza**, onde atuei em diferentes setores da empresa. Durante esse período, desenvolvi habilidades em **atendimento e vendas**, **controle de estoque**, **organização de processos administrativos** e **apoio à gestão**, o que fortaleceu minha capacidade de trabalhar em equipe, resolver problemas e me adaptar a diferentes desafios.
-
-Meu objetivo é conquistar uma oportunidade na área de tecnologia, aplicando minha dedicação, vontade de aprender e experiência profissional para evoluir como desenvolvedor e contribuir com soluções de qualidade.
-
+Estudante de Desenvolvimento de Sistemas, apaixonado por tecnologia e aprendizado contínuo. Sempre em busca de novos desafios, criando soluções e evoluindo como desenvolvedor.
 <p align="left">
     <a href="https://www.linkedin.com/in/gabriel-ribeiro-neves-30001938b/" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2.svg?logo=linkedin-white&logoColor=white" alt="LinkedIn"/>
