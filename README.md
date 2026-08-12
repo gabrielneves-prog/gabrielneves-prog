@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em Formação`**
 
-SOU Estudante de Desenvolvimento de Sistemas, apaixonado por tecnologia e aprendizado contínuo. Sempre em busca de novos desafios, criando soluções e evoluindo como desenvolvedor.
+Sou estudante de Desenvolvimento de Sistemas, apaixonado por tecnologia e aprendizado contínuo. Sempre em busca de novos desafios, criando soluções e evoluindo como desenvolvedor.
 <p align="left">
     <a href="https://www.linkedin.com/in/gabriel-ribeiro-neves-30001938b/" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2.svg?logo=linkedin-white&logoColor=white" alt="LinkedIn"/>
